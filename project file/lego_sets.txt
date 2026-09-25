@@ -1,0 +1,28 @@
+10276,Colosseum,10279,0.0,1
+10307,Eiffel Tower,10001,629.99,1
+10253,Big Ben,4163,0.0,0
+10325,Alpine Lodge,1517,99.99,1
+10302,Optimus Prime,1508,179.99,1
+21355,The Evolution of STEM,879,79.99,1
+42177,Mercedes-Benz 500,2891,249.99,0
+10300,Back to the Future Time Machine,1872,199.99,1
+42140,App-Controlled Transformation Vehicle,772,0.0,1
+10283,NASA Space Shuttle Discovery,2354,0.0,1
+10362,French Café,1101,79.99,1
+21348,Dungeons & Dragons: Red Dragon's Tale,3745,359.99,1
+42121,Heavy Duty Excavator,569,0.0,1
+76399,Hogwarts® Magical Trunk,603,0.0,0
+42143,Ferrari Daytona SP3,3778,349.99,0
+42156,Peugeot 9X8 24H Le Mans Hybrid Hypercar,1775,199.99,1
+76439,Ollivanders® & Madam Malkin's Robes,744,89.99,1
+60452,Donut Truck,196,19.99,1
+60179,Ambulance Helicopter,190,0.0,1
+42158,NASA Mars Rover Perseverance,1132,95.99,1
+42159,Yamaha MT10SP,1478,229.99,0
+76446,Knight Bus® Adventure,499,49.99,1
+10345,Flower Arrangement,1161,109.99,1
+71832,Thunderfang Dragon of Chaos,668,74.99,1
+10218,Pet Shop,2032,0.0,0
+10297,Boutique Hotel,3066,229.99,1
+43268,Lilo and Stitch Beach House,834,89.99,1
+10294,Titanic,9090,679.99,1
